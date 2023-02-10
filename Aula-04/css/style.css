@@ -1,0 +1,12 @@
+.blue {
+    background-color: rgb(31, 31, 73);
+}
+
+.pdd-left {
+    padding-left: 20px;
+}
+
+textarea {
+    resize: none;
+    height: 150px;
+}
